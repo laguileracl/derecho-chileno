@@ -1,7 +1,7 @@
 # Código de Procedimiento Civil
 
 | Título | CODIGO DE PROCEDIMIENTO CIVIL|
-| ------ | ------ |
+| :------------- | :------------- |
 | Tipo Norma   | Ley 1552 |
 | Fecha Publicación | 30-08-1902|
 | Fecha Promulgación    | 28-08-1902|
@@ -91,20 +91,20 @@
 
 ---
 
-# Libro Primero. DISPOSICIONES COMUNES A TODO {PROCEDIMIENTO}
+# Libro Primero. DISPOSICIONES COMUNES A TODO PROCEDIMIENTO.
 
 
 ## Título I. REGLAS GENERALES.
 
 **Artículo 1°** Las disposiciones de este Código rigen el procedimiento de las contiendas civiles entre partes y de los actos de jurisdicción no contenciosa, cuyo conocimiento corresponda a los Tribunales de Justicia.
 
-**Art. 2°** El procedimiento es ordinario o extraordinario. Es ordinario el que se somete a la tramitación común ordenada por la ley, y extraordinario el que se rige por las disposiciones especiales que para determinados casos ella establece.
+**Art. 2°** El procedimiento es `ordinario` o extraordinario. Es ordinario el que se somete a la tramitación común ordenada por la ley, y extraordinario el que se rige por las disposiciones especiales que para determinados casos ella establece.
 
 **Art. 3°** Se aplicará el procedimiento ordinario en todas las gestiones, trámites y actuaciones que no estén sometidos a una regla especial diversa, cualquiera que sea su naturaleza.
 
 
 
-## Título II. DE LA COMPARECENCIA EN JUICIO
+## Título II. DE LA COMPARECENCIA EN JUICIO.
 
 **Artículo 4°. (5).** Toda persona que deba comparecer en juicio a su propio nombre o como representante legal de otra, deberá hacerlo en la forma que determine la ley.
 

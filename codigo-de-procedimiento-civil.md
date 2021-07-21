@@ -1,7 +1,7 @@
 # Código de Procedimiento Civil
 
-| Título    | CODIGO DE PROCEDIMIENTO CIVIL|
-| --- | --- |
+| Título | CODIGO DE PROCEDIMIENTO CIVIL|
+| ------ | ------ |
 | Tipo Norma   | Ley 1552 |
 | Fecha Publicación | 30-08-1902|
 | Fecha Promulgación    | 28-08-1902|
@@ -13,6 +13,32 @@
 | URL | https://www.leychile.cl/N?i=22740&f=2019-05-14|
 
 
+## ÍNDICE
+
+
+- [Libro Primero. DISPOSICIONES COMUNES A TODO PROCEDIMIENTO](#libro-primero-disposiciones-comunes-a-todo-procedimiento)
+  * [Título I. REGLAS GENERALES](#título-i-reglas-generales)
+  * [Título II. DE LA COMPARECENCIA EN JUICIO](#título-ii-de-la-comparecencia-en-juicio)
+  * [Título III. DE LA PLURALIDAD DE ACCIONES O DE PARTES](título-iii-de-la-pluralidad-de-acciones-o-de-partes)
+  * [Título IV. DE LAS CARGAS PECUNIARIAS A QUE ESTAN SUJETOS LOS LITIGANTES](título-iv-de-las-cargas-pecuniarias-a-que-estan-sujetos-los-litigantes)
+  * [Título V. DE LA FORMACION DEL PROCESO, DE SU CUSTODIA Y DE SU COMUNICACION A LAS PARTES](título-v-de-la-formacion-del-proceso,-de-su-custodia-y-de-su-comunicacion-a-las-partes)
+  * [Título VI. DE LAS NOTIFICACIONES](título-vi-de-las-notificaciones)
+  * [Título VII. DE LAS ACTUACIONES JUDICIALES](título-vii-de-las-actuaciones-judiciales)
+  * [Título VIII. DE LAS REBELDIAS](título-viii-de-las-rebeldias)
+  * [Título IX. DE LOS INCIDENTES](título-ix-de-los-incidentes)
+  * [Título X. DE LA ACUMULACION DE AUTOS](título-x-de-la-acumulacion-de-autos)
+  * [Título XI. DE LAS CUESTIONES DE COMPETENCIA](título-xi-de-las-cuestiones-de-competencia)
+  * [Título XII. DE LAS IMPLICANCIAS Y RECUSACIONES](título-xii-de-las-implicancias-y-recusaciones)
+  * [Título XIII. DEL PRIVILEGIO DE POBREZA](título-xiii-del-privilegio-de-pobreza)
+  * [Título XIV. DE LAS COSTAS](título-xiv-de-las-costas)
+  * [Título XV. DEL DESISTIMIENTO DE LA DEMANDA](título-xv-del-desistimiento-de-la-demanda)
+  * [Título XVI. DEL ABANDONO DEL PROCEDIMIENTO](título-xvi-del-abandono-del-procedimiento)
+  * [Título XVII. DE LAS RESOLUCIONES JUDICIALES](título-xvii-de-las-resoluciones-judiciales)
+  * [Título XVIII. DE LA APELACION](título-xviii-de-la-apelacion)
+  * [Título XIX. DE LA EJECUCION DE LAS RESOLUCIONES](título-xix-de-la-ejecucion-de-las-resoluciones)
+  * [Título XX. DE LAS MULTAS](título-xx-de-las-multas)
+
+ 
 
 # Libro Primero. DISPOSICIONES COMUNES A TODO PROCEDIMIENTO
 
@@ -331,7 +357,7 @@ Este derecho no podrá reclamarse sino dentro de cinco días, contados desde que
 
 
 
-## Título IX  DE LOS INCIDENTES
+## Título IX. DE LOS INCIDENTES
 
 **Art. 82 (85).** Toda cuestión accesoria de un juicio que requiera pronunciamiento especial con audiencia de las partes, se tramitará como incidente y se sujetará a las reglas de este Título, si no tiene señalada por la ley una tramitación especial.
 
@@ -586,6 +612,7 @@ Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en ot
 **Art. 146 (153).** No podrá condenarse al pago de costas cuando se hayan emitido, por los jueces que concurran al fallo en un tribunal colegiado, uno o más votos favorables a la parte que pierde la cuestión resuelta.
 
 **Art. 147 (154).** Cuando la parte que promueve un incidente dilatorio no obtenga resolución favorable, será precisamente condenada en las costas.
+
 
 ## Título XV. DEL DESISTIMIENTO DE LA DEMANDA
 

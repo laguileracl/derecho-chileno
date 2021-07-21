@@ -94,7 +94,7 @@
 # Libro Primero. DISPOSICIONES COMUNES A TODO PROCEDIMIENTO
 
 
-## Título I. REGLAS GENERALES
+## Título I. REGLAS GENERALES <a href="#top">Inicio</a>
 
 **Artículo 1°** Las disposiciones de este Código rigen el procedimiento de las contiendas civiles entre partes y de los actos de jurisdicción no contenciosa, cuyo conocimiento corresponda a los Tribunales de Justicia.
 

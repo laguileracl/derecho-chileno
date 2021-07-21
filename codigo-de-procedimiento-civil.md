@@ -10,7 +10,7 @@
 | Inicio Vigencia  | 14-05-2019|
 | Id Norma | 22740|
 | Ultima Modificación | 14-MAY-2019 Ley 21159|
-| URL | https://www.leychile.cl/N?i=22740&f=2019-05-14|
+| URL | [https://www.leychile.cl/N?i=22740&f=2019-05-14](https://www.leychile.cl/N?i=22740&f=2019-05-14) |
 
 
 ## ÍNDICE

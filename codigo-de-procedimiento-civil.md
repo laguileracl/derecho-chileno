@@ -416,7 +416,7 @@ Se considerará parte legítima para solicitarla todo el que haya sido admitido 
 
 
 
-## Título XI  DE LAS CUESTIONES DE COMPETENCIA
+## Título XI. DE LAS CUESTIONES DE COMPETENCIA
 
 **Art. 101 (104).** Podrán las partes promover cuestiones de competencia por inhibitoria o por declinatoria.
 
@@ -508,7 +508,6 @@ Las recusaciones que se interpongan por causas sobrevinientes a la fecha de este
 
 **Art. 123 (128).** Paralizado el incidente de implicancia o de recusación por más de diez días, sin que la parte que lo haya promovido haga gestiones conducentes para ponerlo en estado de que sea resuelto, el tribunal lo declarará de oficio abandonado, con citación del recusante.
 
-
 **Art. 124 (129).** Antes de pedir la recusación de un juez al tribunal que deba conocer del incidente, podrá el recusante ocurrir al mismo recusado, si funciona solo, o al tribunal de que forme parte, exponiéndole la causa en que la recusación se funda y pidiéndole la declare sin más trámite.
 
 Rechazada esta solicitud, podrá deducirse la recusación ante el tribunal correspondiente.
@@ -588,7 +587,8 @@ Lo dispuesto en este artículo se entiende sin perjuicio de lo establecido en ot
 
 **Art. 147 (154).** Cuando la parte que promueve un incidente dilatorio no obtenga resolución favorable, será precisamente condenada en las costas.
 
-Título XV DEL DESISTIMIENTO DE LA DEMANDA
+## Título XV. DEL DESISTIMIENTO DE LA DEMANDA
+
 **Art. 148 (155).** Antes de notificada una demanda al demandado, podrá el actor retirarla sin trámite alguno, y se considerará como no presentada. Después de notificada, podrá en cualquier estado del juicio desistirse de ella ante el tribunal que conozca del asunto, y esta petición se someterá a los trámites establecidos para los incidentes.
 
 **Art. 149 (156).** Si se hace oposición al desistimiento o sólo se acepta condicionalmente, resolverá el tribunal si continúa o no el juicio, o la forma en que debe tenerse por desistido al actor.
@@ -617,7 +617,7 @@ Subsistirán, sin embargo, con todo su valor los actos y contratos de que result
 **Art. 157 (164).** No podrá alegarse el abandono del procedimiento en los procedimientos concursales de liquidación, ni en los de división o liquidación de herencias, sociedades o comunidades.
 
 
-## Título XVII  DE LAS RESOLUCIONES JUDICIALES
+## Título XVII. DE LAS RESOLUCIONES JUDICIALES
 
 **Art. 158 (165).** Las **resoluciones judiciales** se denominarán sentencias definitivas, sentencias interlocutorias, autos y decretos.
 
@@ -961,7 +961,7 @@ Si, vista la causa, se decreta para mejor resolver, alguna de las diligencias me
 
 ## Título XIX. DE LA EJECUCION DE LAS RESOLUCIONES
 
-***1. De las resoluciones pronunciadas por tribunales chilenos***
+***1. De las resoluciones pronunciadas por tribunales chilenos.***
 
 **Art. 231 (236).** La ejecución de las resoluciones corresponde a los tribunales que las hayan pronunciado en primera o en única instancia. Se procederá a ella una vez que las resoluciones queden ejecutoriadas o causen ejecutoria en conformidad a la ley.
 
@@ -1142,7 +1142,7 @@ Si se da lugar a ella, y vence el plazo concedido al jactancioso para deducir su
 **Art. 272 (262).** La acción de jactancia prescribe en seis meses, contados desde que tuvieron lugar los hechos en que pueda fundarse.
 
 
-## Título IV  DE LAS MEDIDAS PREJUDICIALES
+## Título IV. DE LAS MEDIDAS PREJUDICIALES
 
 **Art. 273 (263).** El juicio ordinario podrá prepararse, exigiendo el que pretende demandar de aquel contra quien se propone dirigir la demanda:
 
@@ -1490,7 +1490,6 @@ Informes de peritos; y Presunciones.
 5°. Los testimonios que el tribunal mande agregar durante el juicio, autorizados por su secretario u otro funcionario competente y sacados de los originales o de copias que reúnan las condiciones indicadas en el número anterior.
 
 6°. Los documentos electrónicos suscritos mediante firma electrónica avanzada.
-
 
 **Art. 343 (332).** Cuando las copias agregadas sólo tengan una parte del instrumento original, cualquiera de los interesados en el pleito podrá exigir que se agregue el todo o parte de lo omitido, a sus expensas, sin perjuicio de lo que se resuelva sobre pago de costas.
 
@@ -2616,7 +2615,7 @@ No será admisible ninguna otra demanda que tienda a enervar lo resuelto en el i
 
 **Art. 565. (722).** Presentada la demanda para la suspensión de una obra nueva denunciable, el juez decretará provisionalmente dicha suspensión y mandará que se tome razón del estado y circunstancias de la obra y que se aperciba al que la esté ejecutando con la demolición o destrucción, a su costa, de lo que en adelante se haga. En la misma resolución mandará el tribunal citar al denunciante y al denunciado para que concurran a la audiencia del quinto día hábil después de la notificación del demandado, debiendo en ella presentarse los documentos y demás medios probatorios en que las partes funden sus pretensiones.
 
-**Art. 566. (723) No es necesaria la notificación del denunciado para llevar a efecto la suspensión decretada.
+**Art. 566. (723).** No es necesaria la notificación del denunciado para llevar a efecto la suspensión decretada.
 
 Bastará para esta suspensión la notificación del que esté dirigiendo o ejecutando la obra.
 
@@ -2648,6 +2647,7 @@ En todo caso, la sentencia llevará condenación de costas.
 
 La primera de las condiciones expresadas y la calificación de la caución, serán materia de un incidente.
 
+
 ***4. De la denuncia de obra ruinosa***
 
 **Art. 571. (728).** Si se pide la demolición o enmienda de una obra ruinosa o peligrosa, o el afianzamiento o extracción de árboles mal arraigados o expuestos a ser derribados por casos de ordinaria ocurrencia, el tribunal practicará, a la mayor brevedad, asociado de un perito nombrado por él mismo y con notificación de las partes y asistencia de la que concurra, una inspección personal de la construcción o árboles denunciados. Podrá también cada parte, si lo estima conveniente, asociarse para este acto de un perito; y en el acta que de lo obrado se levante se harán constar las opiniones o informes periciales, las observaciones conducentes que hagan los interesados y lo que acerca de ello note el juez que practica la diligencia.
@@ -2666,6 +2666,7 @@ Cuando la diligencia de reconocimiento no haya sido practicada por el tribunal, 
 
 **Art. 576. (733).** Cuando se dé lugar al interdicto, no se entenderá reservado el derecho de ejercer en vía ordinaria ninguna acción que tienda a dejar sin efecto lo resuelto.
 	
+
 ***5. De los interdictos especiales***
 
 **Art. 577. (734).** Si se pide la destrucción o modificación de la obras a que se refieren los artículos 936 y 937 del Código Civil, se procederá en la forma dispuesta por los artículos 571, 572, 573 y 574 del presente Código.
@@ -2694,7 +2695,8 @@ Si se alega la excepción a que se refiere el inciso final del artículo 941 del
 
 **Art. 583. (741).** Lo dispuesto en los párrafos 4° y 5° de este Título se entiende sin perjuicio de las medidas administrativas o de policía a que haya lugar según las leyes.
 
-	
+
+
 ## Título V. DE LA CITACION DE EVICCION
 
 **Art. 584. (742).** La citación de evicción deberá hacerse antes de la contestación de la demanda.
@@ -2709,11 +2711,13 @@ Vencidos estos plazos sin que el demandado haya hecho practicar la citación, po
 
 **Art 587. (745).** Si comparecen al juicio las personas citadas, se observará lo dispuesto en el artículo 1844 del Código Civil, continuando los trámites de aquél según el estado que a la sazón tengan. En caso contrario, vencido el término de emplazamiento, continuará sin más trámite el procedimiento.
 
+
+
 ## Título VI. DE LOS JUICIOS ESPECIALES DEL CONTRATO DE ARRENDAMIENTO
 
 ***1. Del desahucio, del lanzamiento y de la retención***
 
- **Art. 588. (746).** El desahucio de la cosa arrendada puede efectuarse judicial o extrajudicialmente.
+**Art. 588. (746).** El desahucio de la cosa arrendada puede efectuarse judicial o extrajudicialmente.
 
 La prueba del desahucio extrajudicial se sujetará a las reglas generales del Título XXI, Libro IV del Código Civil y a los procedimientos que establece el presente Código.
 
@@ -2755,7 +2759,7 @@ Esta reclamación no será un obstáculo para el lanzamiento.
 
 **Art. 602. (760).** En los casos a que se refiere el artículo precedente, se procederá al avalúo de las labores, plantíos o materiales reclamados, por peritos nombrados en la forma que expresa el artículo 414.
 
-**Art. 603. (761) Practicada esta diligencia, podrá el arrendatario reclamar el abono de la cantidad en que haya sido apreciado lo que crea corresponderle, o que se le permita separar y llevarse los materiales.
+**Art. 603. (761).** Practicada esta diligencia, podrá el arrendatario reclamar el abono de la cantidad en que haya sido apreciado lo que crea corresponderle, o que se le permita separar y llevarse los materiales.
 
 Esta reclamación se tramitará como incidente.
 
@@ -2768,7 +2772,8 @@ Cuando se trate de bienes inmuebles, la misma sentencia que deseche la reclamaci
 **Art. 605. (763).** Cuando la terminación del arrendamiento resulte de sentencia judicial, en los casos previstos por la ley, podrá adoptarse el procedimiento del artículo anterior o el que corresponda para la ejecución de dicha sentencia, a elección de la parte a quien ella favorezca.
 
 **Art. 606. (764).** Las sentencias en que se ratifique el desahucio o se ordene el lanzamiento, las que den lugar a la retención, y las que dispongan la restitución de la cosa arrendada, en los casos de los dos artículos anteriores, sólo serán apelables en el efecto devolutivo, y la apelación se tramitará como en los incidentes.
-	
+
+
 ***2. De la terminación inmediata del arrendamiento.***
 
 **Art. 607. (765).** Cuando la ley autorice al arrendador para pedir la terminación inmediata del arrendamiento, como en los casos previstos por los artículos 1972 y 1973 del Código Civil, señalará el tribunal la audiencia del quinto día hábil después de la notificación del demandado, a fin de que concurran las partes con sus medios de prueba y expongan lo conveniente a su derecho. Tendrá lugar la audiencia con sólo el interesado que asista.
@@ -2795,11 +2800,14 @@ Demandadas estas prestaciones, se entenderán comprendidas en la acción las de 
 
 **Art. 614. (772).** Cuando las sentencias dictadas en los casos de que trata el presente párrafo dieren lugar a la terminación del arrendamiento, sólo serán apelables en el efecto devolutivo, y el recurso se tramitará como en los incidentes.	
 
+
 ***3. Disposiciones comunes a los dos párrafos precedentes.***
 
 **Art. 615. (773).** Las sentencias que se pronuncien en conformidad a los dos párrafos precedentes no privarán a las partes del ejercicio de las acciones ordinarias a que tengan derecho, sobre las mismas cuestiones resueltas por aquéllas.
 
 **Art. 616. Derogado.
+
+
 
 ## Título VII. DE LOS JUICIOS SOBRE CONSENTIMIENTO PARA EL MATRIMONIO
 
@@ -2824,6 +2832,7 @@ Demandadas estas prestaciones, se entenderán comprendidas en la acción las de 
 **Art. 626.** Derogado.
 
 **Art. 627.** Derogado.
+
 
 
 ## Título VII. IDEL JUICIO ARBITRAL
@@ -2865,6 +2874,7 @@ Los tribunales de derecho podrán cometer esta diligencia al árbitro mismo asis
 Tratándose de otra clase de resoluciones, corresponde al árbitro ordenar su ejecución.
 
 Sin embargo, cuando el cumplimiento de la resolución arbitral exija procedimientos de apremio o el empleo de otras medidas compulsivas, o cuando haya de afectar a terceros que no sean parte en el compromiso, deberá ocurrirse a la justicia ordinaria para la ejecución de lo resuelto.
+
 
 ***2. Del juicio seguido ante arbitradores***
 
@@ -2908,9 +2918,11 @@ No pudiendo obtenerse mayoría en el pronunciamiento de la sentencia definitiva 
 	
 **Art. 643. (800).** La ejecución de la sentencia de los arbitradores se sujetará a lo dispuesto en el artículo 635.
 
+
 ***3. Disposición común a los dos párrafos precedentes***
 
 **Art. 644. (801).** Los expedientes fallados por árbitros o arbitradores se archivarán en la comuna o agrupación de comunas donde se haya constituido el compromiso, en el oficio del funcionario a quien correspondería su custodia si se hubiera seguido el juicio ante los tribunales ordinarios.
+
 
 
 ## Título IX. DE LOS JUICIOS SOBRE PARTICIÓN DE BIENES
@@ -2983,7 +2995,6 @@ Podrá reemplazarse esta hipoteca por otra caución suficiente calificada por el
 
 **Art. 663. (820).** Los resultados de la partición se consignarán en un laudo o sentencia final, que resuelva o establezca todos los puntos de hecho y de derecho que deben servir de base para la distribución de los bienes comunes, y en una ordenata o liquidación, en que se hagan los cálculos numéricos necesarios para dicha distribución. 	
 
-
 **Art. 664. (821).** Se entenderá practicada la notificación del laudo y ordenata desde que se notifique a las partes el hecho de su pronunciamiento, salvo el caso previsto en el artículo 666. Los interesados podrán imponerse de sus resoluciones en la oficina del actuario y deducir los recursos a que haya lugar dentro del plazo de quince días.
 
 **Art. 665. (822).** En el laudo podrá hacer el partidor la fijación de su honorario, y cualquiera que sea su cuantía, habrá derecho para reclamar de ella. La reclamación se interpondrá en la misma forma y en el mismo plazo que la apelación, y será resuelta por el tribunal de alzada en única instancia.	
@@ -3021,8 +3032,8 @@ Podrá reemplazarse esta hipoteca por otra caución suficiente calificada por el
 **Art. 679.** Derogado.
 
 
-## Título XI. DEL PROCEDIMIENTO SUMARIO
 
+## Título XI. DEL PROCEDIMIENTO SUMARIO
 
 **Art. 680. (838).** El procedimiento de que trata este Título se aplicará en defecto de otra regla especial a los casos en que la acción deducida requiera, por su naturaleza, tramitación rápida para que sea eficaz.
 
@@ -3107,6 +3118,7 @@ En la apreciación de la prueba, el tribunal estimará siempre la omisión del q
 **Art. 696. (854).** Lo establecido en el inciso 1° del artículo anterior se entenderá sin perjuicio del derecho que corresponda para exigir por acción ejecutiva el cumplimiento de la obligación de presentar la cuenta, cuando dicha acción sea procedente.
 
 
+
 ## Título XIII. DE LOS JUICIOS SOBRE PAGO DE CIERTOS HONORARIOS
 
 **Art. 697. (859).** Cuando el honorario proceda de servicios profesionales prestados en juicio, el acreedor podrá, a su arbitrio, perseguir su estimación y pago con arreglo al procedimiento sumario, o bien interponiendo su reclamación ante el tribunal que haya conocido en la primera instancia del juicio.
@@ -3114,6 +3126,7 @@ En la apreciación de la prueba, el tribunal estimará siempre la omisión del q
 En este último caso la petición será substanciada y resuelta en la forma prescrita para los incidentes.
 
 	
+
 ## Título XIV. DE LOS JUICIOS DE MENOR Y DE MINIMA CUANTIA
 
 ***1. De los juicios de menor cuantía***
@@ -3321,6 +3334,7 @@ La escritura definitiva se otorgará en el registro de un notario y será subscr
 
 **Art. 738.** En los casos no previstos por los artículos precedentes, serán aplicables las reglas del juicio ejecutivo de mayor cuantía si la cuestión deducida es también ejecutiva.
 
+
 	
 ## Título XV. DEL JUICIO SOBRE ARREGLO DE LA AVERÍA COMÚN
 
@@ -3340,7 +3354,11 @@ La escritura definitiva se otorgará en el registro de un notario y será subscr
 
 **Art. 746.** Derogado.
 
-**Art. 747.** Derogado.Título XVI. DE LOS JUICIOS DE HACIENDA
+**Art. 747.** Derogado.
+
+
+
+## Título XVI. DE LOS JUICIOS DE HACIENDA
 
 **Art. 748. (922).** Los juicios en que tenga interés el Fisco y cuyo concimiento corresponda a los tribunales ordinarios, se substanciarán siempre por escrito, con arreglo a los trámites establecidos para los juicios del fuero ordinario de mayor cuantía, salvo las modificaciones que en los siguientes artículos se expresan.
 
@@ -3363,6 +3381,7 @@ Se certificará en el proceso el hecho de haberse remitido el oficio y se agrega
 En caso que la sentencia condene al Fisco a prestaciones de carácter pecuniario, el decreto de pago deberá disponer que la Tesorería incluya en el pago el reajuste e intereses que haya determinado la sentencia y que se devenguen hasta la fecha de pago efectivo. En aquellos casos en que la sentencia no hubiese dispuesto el pago de reajuste y siempre  que la cantidad ordenada pagar no se solucione dentro de los sesenta días establecidos en el inciso primero, dicha cantidad se reajustará en conformidad con la variación que haya experimentado el Indice de Precios al Consumidor entre el mes anterior a aquel en que quedó ejecutoriada la sentencia y el mes anterior al del pago efectivo.
 
 
+
 ## Título XVII. DE LOS JUICIOS DE NULIDAD DE MATRIMONIO Y DE DIVORCIO
 
 **Art. 753.** Derogado.
@@ -3374,6 +3393,7 @@ En caso que la sentencia condene al Fisco a prestaciones de carácter pecuniario
 **Art. 756.** Derogado.
 
 **Art. 757.** Derogado.
+
 
 
 ## Título XVIII. DE LA ACCION DE DESPOSEIMIENTO CONTRA TERCEROS POSEEDORES DE LA FINCA HIPOTECADA O ACENSUADA.
@@ -3391,6 +3411,8 @@ Esta acción se someterá a las reglas del juicio ordinario o a las del ejecutiv
 **Art. 762. (936).** Lo dispuesto en el artículo 492 se aplicará también al caso en que se persiga la finca hipotecada contra terceros poseedores.
 
 **Art. 763. (937).** La acción del censualista sobre la finca acensuada se rige por las disposiciones del presente Título.
+
+
 
 ## Título XIX. DEL RECURSO DE CASACION
 
@@ -3488,7 +3510,7 @@ Inciso Eliminado.
 
 En contra del fallo que se dicte, sólo podrá interponerse el recurso de reposición, el que deberá fundarse en error de hecho y deducirse en el plazo de tercero día. La resolución que resuelva la reposición será inapelable.
 
-**Art. 779. Es aplicable al recurso de casación lo dispuesto en el artículo 200.
+**Art. 779.** Es aplicable al recurso de casación lo dispuesto en el artículo 200.
 
 Inciso Eliminado.
 
@@ -3501,7 +3523,6 @@ Si el tribunal encuentra mérito para considerarlo inadmisible, lo declarará si
 En caso de no declarar inadmisible desde luego el recurso, ordenará traer los autos en relación, sin más trámite. Asimismo, podrá decretar autos en relación, no obstante haber declarado la inadmisibilidad del recurso, cuando estime posible una casación de oficio.
 
 La resolución por la que el tribunal de oficio declare la inadmisibilidad del recurso, sólo podrá ser objeto del recurso de reposición, el que deberá ser fundado e interponerse dentro de tercero día de notificada la resolución.
-
 
 **Artículo 782.-** Elevado un proceso en casación de fondo, el tribunal examinará en cuenta si la sentencia objeto del recurso es de aquéllas contra las cuales lo concede la ley y si éste reúne los requisitos que se establecen en los incisos primeros de los artículos 772 y 776.
 
@@ -3535,7 +3556,8 @@ Si el vicio que diere lugar a la invalidación de la sentencia fuere alguno de l
 
 Lo dispuesto en el inciso precedente regirá, también, en los casos del inciso primero del artículo 776, si el tribunal respectivo invalida de oficio la sentencia por alguna de las causales antes señaladas.
 
-**Art. 787. Derogado
+**Art. 787.** Derogado
+
 
 ***2. Disposiciones especiales del recurso de casación contra sentencias pronunciadas en juicios de mínima cuantía.***
  
@@ -3587,8 +3609,8 @@ Si sólo se ha interpuesto recurso de casación en la forma, se mandarán traer 
 
 **Art. 799. (970).** Cuando la causa alegada necesite de prueba, el tribunal abrirá para rendirla un término prudencial que no exceda de treinta días.
 
-***4. Disposiciones especiales de los recursos decasación contra sentencias pronunciadas en segundainstancia en juicios de mayor o de menor cuantía y enjuicios especiales***
 
+***4. Disposiciones especiales de los recursos decasación contra sentencias pronunciadas en segundainstancia en juicios de mayor o de menor cuantía y enjuicios especiales***
 
 **Art. 800. (971).** En general, son trámites o diligencias esenciales en la segunda instancia de los juicios de mayor o de menor cuantía y en los juicios especiales:
 
@@ -3627,7 +3649,8 @@ Si la casación es en la forma, tendrá lugar lo dispuesto en el artículo 799.
 
 Si se acoge el recurso de forma, se tendrá como no interpuesto el de fondo.
 
-**Art. 809. Derogado.**
+**Art. 809.** Derogado.
+
 
 
 ## Título XX DEL RECURSO DE REVISION
@@ -3664,7 +3687,8 @@ Servirán de base al nuevo juicio las declaraciones que se hayan hecho en el rec
 
 **Art. 816. (987).** Cuando el recurso de revisión se declare improcedente, se condenará en las costas del juicio al que lo haya promovido y se ordenará que sean devueltos al tribunal que corresponda los autos mandados traer a la vista.
 
-	
+
+
 # Libro Cuarto. DE LOS ACTOS JUDICIALES NO CONTENCIOSOS
 
 ## Título I  DISPOSICIONES GENERALES
@@ -3705,7 +3729,8 @@ Estas sentencias, como las que se expiden en las causas entre partes, se copiar�
 
 Si se da copia de todo o parte del proceso, se dejará en él testimonio de este hecho con expresión del contenido de las copias que se hayan dado.
 
-	
+
+
 ## Título II. DE LA HABILITACION PARA COMPARECER EN JUICIO
 
 **Art. 829. (1001).** En los casos en que la ley autorice al juez para suplir la autorización del marido a fin de que la mujer casada pueda parecer en juicio, ocurrirá ésta ante el tribunal correspondiente manifestándole, por escrito, el juicio o juicios en que necesite actuar como demandante o demandada, los motivos que aconsejan su comparecencia y el hecho de que el marido le niegue la autorización o el impedimento que lo imposibilita para prestarla.
@@ -3722,7 +3747,8 @@ Lo mismo sucederá cuando, antes de otorgarse la que se haya pedido por ausencia
 
 **Art. 832. (1004).** Si la presentación del padre o marido tiene lugar después de concedida la habilitación, su oposición se tramitará también como un incidente, y mientras no recaiga sentencia firme, surtirá todos sus efectos la habilitación.
 
-	
+
+
 ## Título III. DE LA AUTORIZACION JUDICIAL PARA REPUDIAR LA LEGITIMACION DE UN INTERDICTO
 
 **Art. 833. (1005).** Cuando deba obtenerse la autorización judicial para repudiar una legitimación, se expresarán las causas o razones que justifiquen el repudio, se acompañarán los documentos necesarios y se ofrecerá información sumaria para acreditarlas si fuere menester.
@@ -3735,18 +3761,20 @@ En todo caso se oirá el dictamen del respectivo defensor.
 
 En dicha escritura se insertará, además del discernimiento de la curaduría, la resolución que autorizó el repudio.
 
-	
-## Título IV. DE LA EMANCIPACIÓN VOLUNTARIA
 
+
+## Título IV. DE LA EMANCIPACIÓN VOLUNTARIA
 
 **Art. 836. (1008).** Para obtener la aprobación judicial de la emancipación voluntaria se presentarán al tribunal el padre y el hijo, declarando el primero que quiere emancipar al hijo y el segundo que consiente en ello.
 
 El tribunal, previo conocimiento de causa en la forma expresada en el inciso 2° del artículo 824, autorizará la emancipación y mandará reducirla a escritura pública, si la encuentra ventajosa para el hijo, o denegará la autorización en caso contrario.
 
 
+
 ## Título V. DE LA AUTORIZACIÓN JUDICIAL PARA REPUDIAR EL RECONOCIMIENTO DE UN INTERDICTO COMO HIJO NATURAL
 
 **Art. 837. (1009).** La autorización judicial para repudiar el reconocimiento de un hijo natural que se encuentre bajo interdicción, se sujetará a lo dispuesto en los artículos 833 y 835.
+
 
 
 ## Título VI. DEL NOMBRAMIENTO DE TUTORES Y CURADORES Y DEL DISCERNIMIENTO DE ESTOS CARGOS
@@ -3797,7 +3825,6 @@ Las diligencias expresadas se practicarán con citación del defensor de ausente
 
 **Art. 851. (1030).** El nombramiento de curador adjunto se hará como el de curador dativo.
 
-
 El nombramiento recaerá en la persona designada por el donante o testador, con tal que sea idónea, siempre que haya de nombrarse curador para la administración particular de bienes donados o asignados por testamento con la condición de que no los administre el padre, marido o guardador general del donatario o asignatario.
 
 **Art. 852. (1031).** Los curadores especiales serán nombrados por el tribunal, con audiencia del defensor respectivo, sin perjuicio de la designación que corresponda al menor en conformidad a la ley.
@@ -3824,7 +3851,8 @@ Esta fianza debe ser aprobada por el tribunal, con audiencia del defensor respec
 **Art. 857. (1036).** En el escrito en que se solicita el discernimiento de una tutela o curaduría se podrá ofrecer la fianza necesaria; y el tribunal se pronunciará en una misma resolución sobre lo uno y lo otro.
 
 Podrán también ser una misma la escritura de fianza y la de discernimiento.
-	
+
+
 
 ## Título VII  DEL INVENTARIO SOLEMNE
 
@@ -3852,30 +3880,22 @@ En representación de los que residan en país extranjero se citará al defensor
 
 El ministro de fe que practique el inventario dejará constancia en la diligencia de haberse hecho la citación en forma legal.
 
-
-
 **Art. 861. (1040).** Todo inventario comprenderá la descripción o noticia de los bienes inventariados en la forma prevenida por los artículos 382 y 384 del Código Civil.
 
 Pueden figurar en el inventario los bienes que existan fuera del territorio jurisdiccional, sin perjuicio de lo dispuesto en el artículo siguiente.
 
-
-
 **Art. 862. (1041).** Si hay bienes que inventariar en otro territorio jurisdiccional y lo pide algún interesado presente, se expedirán exhortos a los jueces respectivos, a fin de que los hagan inventariar y remitan originales las diligencias obradas para unirlas a las principales.
 
-
-
-**Art. 863. (1042) Concluido el inventario, se protocolizará en el registro del notario que lo haya formado, o en caso de haber intervenido otro ministro de fe, en el protocolo que designe el tribunal.
+**Art. 863. (1042).** Concluido el inventario, se protocolizará en el registro del notario que lo haya formado, o en caso de haber intervenido otro ministro de fe, en el protocolo que designe el tribunal.
 
 El notario deberá dejar constancia de la protocolización en el inventario mismo.
 
-
 **Art. 864. (1043).** Es extensiva a todo inventario la disposición del artículo 383 del Código Civil.
-
-	
 
 **Art. 865. (1044).** Cuando la ley ordene que al inventario se agregue la tasación de los bienes, podrá el tribunal, al tiempo de disponer que se inventaríen, designar también peritos para que hagan la tasación, o reservar para más tarde esta operación.
 
 Si se trata de objetos muebles podrá designarse al mismo notario o funcionario que haga sus veces para que practique la tasación.
+
 
 
 ## Título VIII. DE LOS PROCEDIMIENTOS A QUE DA LUGAR LA SUCESION POR CAUSA DE MUERTE
@@ -3884,26 +3904,13 @@ Si se trata de objetos muebles podrá designarse al mismo notario o funcionario 
 
 **Art. 866. (1045).** El testamento abierto, otorgado ante funcionario competente y que no se haya protocolizado en vida del testador, será presentado después de su fallecimiento y en el menor tiempo posible al tribunal, para que ordene su protocolización. Sin este requisito no podrá procederse a su ejecución.
 
-
-	
-
 **Art. 867. (1046).** La publicación y protocolización de los testamentos otorgados sólo ante testigos, se hará en la forma prevenida por el artículo 1020 del Código Civil.
-
-	
 
 **Art. 868. (1047).** La apertura del testamento cerrado se hará en la forma establecida por el artículo 1025 del Código Civil. Si el testamento se ha otorgado ante notario que no sea del último domicilio del testador, podrá ser abierto ante el juez del territorio jurisdiccional a que pertenezca dicho notario, por delegación del juez del domicilio que se expresa. En tal caso, el original se remitirá con las diligencias de apertura a este juez, y se dejará archivada además una copia autorizada en el protocolo del notario que autoriza el testamento.
 
-
-
 **Art. 869. (1048).** Puede pedir la apertura, publicación y protocolización de un testamento cualquiera persona capaz de parecer por sí mismo en juicio.
 
-
-	
-
 **Art. 870. (1049).** Los testamentos privilegiados se someterán en su apertura, publicación y protocolización a las reglas establecidas por el Código Civil respecto de ellos.
-
-
-	
 
 **Art. 871. (1050).** En las diligencias judiciales a que se refieren los artículos que preceden, actuará el secretario del tribunal a quien corresponda por la ley el conocimiento del negocio.
 
@@ -3918,63 +3925,39 @@ Puede el tribunal decretar de oficio estas diligencias.
 
 Si ha de procederse a ellas en diversos territorios jurisdiccionales, cada tribunal, al mandar practicarlas, designará la persona que, dentro de su territorio, haya de encargarse de la custodia.
 
-
-
 **Art. 873. (1052).** Se procederá a la guarda y aposición de sellos respecto de todos los muebles y papeles que se encuentren entre los bienes de la sucesión, no obstante cualquiera oposición.
-
 
 El funcionario que practique la diligencia podrá pesquisar el testamento entre los papeles de la sucesión.
 
-
 Si se interpone el recurso de alzada, se concederá sólo en el efecto devolutivo.
-
 
 Se exceptúan de lo dispuesto en el inciso primero del presente artículo los muebles domésticos de uso cotidiano, respecto de los cuales bastará que se forme lista.
 
-
-	
-
 **Art. 874. (1053).** Puede el tribunal, siempre que lo estime conveniente, eximir también el dinero y las alhajas de la formalidad de la guarda y aposición de sello. En tal caso mandará depositar estas especies en un banco o en las arcas del Estado, o las hará entregar al administrador o tenedor legítimo de los bienes de la sucesión.
-
-
 
 **Art. 875. (1054).** Decretada la guarda y aposición de sellos, se pueden practicar estas diligencias aun cuando no esté presente ninguno de los interesados.
 
+**Art. 876. (1055).** La ruptura de los sellos deberá hacerse en todo caso judicialmente, con citación de las personas que pueden tomar parte en la facción del inventario, citadas en la forma que dispone el artículo 860; salvo que por la urgencia del caso el tribunal ordene prescindir de este trámite.
 
-	
+***3. De la dación de la posesión efectiva de la herencia.***
 
-**Art. 876. (1055).** La ruptura de los sellos deberá hacerse en todo caso judicialmente, con citación de las personas que pueden tomar parte en la facción del inventario, citadas en la forma que dispone el artículo 860; salvo que por la urgencia del caso el tribunal ordene prescindir de este trámite.3. De la dación de la posesión efectiva de la herencia
 **Art. 877. (1056).** Se dará la posesión efectiva de la herencia al que la pida exhibiendo un testamento aparentemente válido en que se le instituya heredero.
-
 	
-
 **Art. 878. (1057).** Se dará igualmente al heredero abintestato que acredite el estado civil que le da derecho a la herencia, siempre que no conste la existencia de heredero testamentario, ni se presenten otros abintestatos de mejor derecho.
 
-
-	
-
-**Art. 879. La posesión efectiva de una herencia deberá solicitarse para todos los herederos indicándolos por sus nombres, apellidos, domicilios y calidades con que heredan.
-
+**Art. 879.** La posesión efectiva de una herencia deberá solicitarse para todos los herederos indicándolos por sus nombres, apellidos, domicilios y calidades con que heredan.
 
 En la solicitud se expresará, además, el nombre, apellido, profesión u oficio, estado civil, lugar y fecha de la muerte y último domicilio del causante, si la herencia es o no testamentaria, acompañándose en el primer caso copia del testamento.
 
-
-	
-
-**Art. 880. Los herederos que no estén obligados a practicar inventario solemne o no lo exijan al tiempo de pedir la posesión efectiva, deberán presentar inventario simple en los términos de los artículos 382 y 384 del Código Civil. Dicho inventario, que se acompañará a la solicitud de posesión efectiva, llevará la firma de todos los que la hayan pedido.
-
+**Art. 880.** Los herederos que no estén obligados a practicar inventario solemne o no lo exijan al tiempo de pedir la posesión efectiva, deberán presentar inventario simple en los términos de los artículos 382 y 384 del Código Civil. Dicho inventario, que se acompañará a la solicitud de posesión efectiva, llevará la firma de todos los que la hayan pedido.
 
 En todo caso, los inventarios deberán incluir una valoración de los bienes de acuerdo a lo previsto en el artículo 46 de la ley Nº16.271.
-
-
 
 **Art. 881. (1058).** La posesión efectiva se entenderá dada a toda la sucesión, aun cuando sólo uno de los herederos la pida. Para este efecto, una vez presentada la solicitud, el tribunal solicitará informe al Servicio de Registro Civil e Identificación respecto de las personas que posean presuntamente la calidad de herederos conforme a los registros del Servicio, y de los testamentos que aparezcan otorgados por el causante en el Registro Nacional de Testamentos. El hecho de haber cumplido con este trámite deberá constar expresamente en la resolución que conceda la posesión efectiva.
 
 La resolución que la conceda contendrá el nombre, apellido, profesión u oficio, lugar y fecha de la muerte, y último domicilio del causante, la calidad de la herencia, indicando el testamento cuando lo haya, su fecha y la notaría en que fue extendido o protocolizado, la calidad de los herederos, designándolos por sus nombres, apellidos, profesiones u oficios y domicilios.
 
 La resolución terminará, según el caso, ordenando la facción de inventario solemne de los bienes cuya posesión efectiva se solicita, o la protocolización del inventario simple de los mismos, sellado previamente en cada hoja por el secretario.
-
-
 
 **Art. 882. (1060).** La resolución que concede la posesión efectiva de la herencia, se publicará en extracto por tres veces en un diario de la comuna, o de la capital de la provincia o de la capital de la región cuando allí no lo haya.
 
@@ -3984,7 +3967,6 @@ Hechas las publicaciones a que se refieren los incisos anteriores y previa agreg
 
 El secretario deberá dejar constancia en el proceso que se hicieron las publicaciones en forma legal.
 
-
 **Art. 883. (1061).** La inscripción a que se refiere el artículo anterior se hará en el Registro de Propiedad del Conservador de Bienes Raíces del territorio jurisdiccional en que haya sido pronunciada la resolución de posesión efectiva, con indicación de la notaría en que se protocolizó el inventario y la enumeración de los bienes raíces que en él se comprenda.
 
 Con el mérito de esa inscripción, los conservadores deberán proceder a efectuar las especiales que procedan, sin necesidad de otro trámite.
@@ -3993,18 +3975,14 @@ Cuando entre los bienes hereditarios no haya inmuebles, la inscripción de la po
 
 Las adiciones, supresiones o modificaciones que se hagan al inventario cuando se trate de bienes raíces, deberán protocolizarse en la misma notaría en que se protocolizó el inventario y anotarse en el Registro Conservatorio, al margen de la inscripción primitiva.
 
-
-
-**Art. 884. Derogado.
+**Art. 884.** Derogado.
 
 
 ***4. De la declaración de herencia yacente y de los procedimientos subsiguientes a esta declaración***
 
 **Art. 885. (1062).** La declaración de herencia yacente se hará en conformidad a lo establecido en el artículo 1240 del Código Civil.
 
-
 Toca al curador que se nombre cuidar de que se hagan la inserción y fijación ordenadas en dicho artículo.
-	
 
 **Art. 886. (1063).** En el caso del artículo 482 del Código Civil, se hará saber por oficio dirigido al efecto al cónsul respectivo la resolución que declara yacente la herencia, a fin de que en el término de cinco días proponga, si lo tiene a bien, la persona o personas a quienes pueda nombrarse curadores.Si el cónsul propone curador, se procederá conforme a lo dispuesto en el artículo 483 del Código citado.En el caso contrario, el tribunal hará el nombramiento de oficio.
 
@@ -4013,24 +3991,26 @@ Toca al curador que se nombre cuidar de que se hagan la inserción y fijación o
 
 **Art. 887. (1064).** Para provocar las diligencias o para pedir las declaraciones expresadas en los párrafos precedentes, es necesario acreditar la muerte, real o presunta, del testador o de la persona de cuya sucesión se trata.
 
-
 **Art. 888. (1065).** Se levantará acta circunstanciada de todas las diligencias prescritas en este Título.
 
 	
 ## Título IX. DE LA INSINUACION DE DONACIONES
 
 **Art. 889. (1066).** El que pida autorización judicial para una donación que deba insinuarse, expresará:
-1°. El nombre del donante y del donatario, y si alguno de ellos se encuentra sujeto a tutela o curaduría o bajo potestad de padre o marido;
-2°. La cosa o cantidad que se trata de donar;
-3°. La causa de la donación, esto es, si la donación es remuneratoria o si se hace a título de legítima, de mejora, de dote o sólo por liberalidad; y4°. El monto líquido del haber del donante y sus cargas de familia.
 
+1°. El nombre del donante y del donatario, y si alguno de ellos se encuentra sujeto a tutela o curaduría o bajo potestad de padre o marido;
+
+2°. La cosa o cantidad que se trata de donar;
+
+3°. La causa de la donación, esto es, si la donación es remuneratoria o si se hace a título de legítima, de mejora, de dote o sólo por liberalidad; y
+
+4°. El monto líquido del haber del donante y sus cargas de familia.
 
 **Art. 890. (1067).** El tribunal, según la apreciación que haga de los particulares comprendidos en el artículo precedente, concederá o denegará la autorización, conforme a lo dispuesto en el artículo 1401 del Código Civil.
 
 
-	
+ 
 ## Título X. DE LA AUTORIZACION JUDICIAL PARA ENAJENAR, GRAVAR O DAR EN ARRENDAMIENTO POR LARGO TIEMPO BIENES DE INCAPACES, O PARA OBLIGAR O ESTOS COMO FIADORES
-
 
 **Art. 891. (1068).** Cuando deba obtenerse autorización judicial para obligar como fiador a un incapaz, o para enajenar, gravar con hipoteca, censo o servidumbre, o para dar en arrendamiento sus bienes, se expresarán las causas o razones que exijan o legitimen estas medidas, acompañando los documentos necesarios u ofreciendo información sumaria para acreditarlas.
 
@@ -4045,109 +4025,81 @@ En caso de no fijar plazo alguno, se entenderá caducada la autorización en el 
 
 **Art. 892. (1069).** La venta voluntaria en pública subasta, en los casos en que la ley ordene esta forma de enajenación, se someterá a las reglas establecidas en el Título IX del Libro III para la venta de bienes comunes, procediéndose ante el tribunal ordinario que corresponda.
 
-
 **Art. 893. (1070).** Si no se hacen posturas admisibles, podrán los interesados pedir que se señale otro día para la subasta, manteniendo el valor asignado a los bienes, o reduciéndolo, o modificando como se estime conveniente la forma o condiciones del pago.
 
-
 Si para autorizar la venta ha debido oírse a alguno de los defensores públicos, se le oirá también para aprobar la reducción o modificación indicada.
-
-
-	
 
 **Art. 894. (1071).** Se observarán también en la venta voluntaria en pública subasta las disposiciones de los artículos 494, 495, 496 y 497; pero la escritura definitiva de compraventa será subscrita por el rematante y por el propietario de los bienes, o su representante legal si es incapaz.
 
 
-	
-## Título XII. DE LAS TASACIONES
 
+## Título XII. DE LAS TASACIONES
 
 **Art. 895. (1072).** Las tasaciones que ocurran en los negocios no contenciosos y las que se decreten en los contenciosos, se harán por el tribunal que corresponda, oyendo a peritos nombrados en la forma establecida por el artículo 414.
 
-
-
 **Art. 896. (1073).** Practicada la tasación, se depositará en la oficina a disposición de los interesados, los cuales serán notificados de ella por el secretario o por otro ministro de fe, sin necesidad de previo decreto del tribunal.	
-
 
 **Art. 897. (1074).** Los interesados tendrán el término de tres días para impugnar la tasación.
 
-	
-
 **Art. 898. (1075).** De la impugnación de una de las partes se dará traslado a la otra, por el término de tres días.
-
-	
 
 **Art. 899. (1076).** Oída la contestación, el tribunal resolverá sobre la impugnación, sea aprobando la operación, sea mandando rectificarla por el mismo u otro perito, sea fijando por sí mismo el justiprecio de los bienes.
 
-
 Si el tribunal manda rectificar la operación, expresará los puntos sobre los cuales debe recaer la rectificación.
-
 
 Presentada la operación por el perito, hará el tribunal el justiprecio sin más trámite.	
 
-
 **Art. 900. (1077).** En el caso del número 16 del artículo 445 de este Código, podrá el tribunal, aunque el interesado no reclame, negar su aprobación a la tasación y nombrar otro perito que la rectifique.
-
 
 Se observará también en este caso lo dispuesto en el artículo precedente.
 
-	
+
+
 ## Título XIII. DE LA DECLARACION DEL DERECHO AL GOCE DE CENSOS
 
 **Art. 901. (1078).** El que pretenda entrar en el goce de un censo de transmisión forzosa pedirá al tribunal competente que le declare su derecho, previa la comprobación de los requisitos legales y de las formalidades necesarias.
 
-
-	
-
 **Art. 902. (1079).** Son requisitos legales para la declaración de este derecho:
- 1°. El fallecimiento del último censualista; y 2°. El llamamiento establecido a favor del compareciente por el acto constitutivo del censo o de la antigua vinculación que se haya convertido en él, o por la ley.
 
-
-	
+1°. El fallecimiento del último censualista; y 
+ 
+2°. El llamamiento establecido a favor del compareciente por el acto constitutivo del censo o de la antigua vinculación que se haya convertido en él, o por la ley.
 
 **Art. 903. (1080).** Reclamado este derecho, el tribunal llamará por medio de tres avisos que se publicarán de ocho en ocho días a lo menos en un diario de la comuna, si lo hay, o de la capital de la región, en el caso contrario, a los que se crean llamados al goce del censo, a fin de que hagan uso de su derecho.
 
-
-
 **Art. 904. (1081).** Transcurridos ocho días después del último aviso de los indicados en el artículo anterior, el tribunal abrirá un término de prueba para que el compareciente acredite su derecho.Se rendirá esta prueba con citación del defensor de obras pías, cuando a éste corresponda intervenir.
-
-
 
 **Art. 905. (1082).** Comprobada la constitución del censo y no presentándose contradictor, lo que certificará antes del último decreto el secretario, el tribunal decretará el derecho del compareciente, si acredita los requisitos establecidos en el artículo 902.
 
-
-	
-
 **Art. 906. (1083).** Compareciendo uno o más contradictores, se seguirá con ellos el juicio sobre mejor derecho a censo, sirviendo de demanda la solicitud de denuncia, y con las especialidades siguientes:
+
 1a. Serán admitidos en cualquier estado del juicio; y, salvo lo dispuesto en el número 5° del presente artículo, cada contradictor lo tomará en el estado que se encuentre;
+
 2a. En la solicitud de oposición fundará su derecho el que la presente;
+
 3a. Transcurrido el plazo a que se refiere el inciso 1° del artículo 904, se recibirá la causa a prueba sin previa discusión sobre el derecho de los comparecientes;
+
 4a. Las pruebas legales rendidas por cualquiera de los interesados, aun cuando lo hayan sido antes de formulada alguna oposición, afectarán a todos, como si efectivamente se hubieran producido con su citación;
+
 5a. A los que se presenten después del término de prueba, se les concederá uno nuevo, que no excederá de la mitad del primero. Durante este término podrán también los otros interesados rendir prueba dirigida a destruir el derecho para cuya justificación se haya concedido aquél;
+
 6a. La prueba se rendirá en la forma establecida para los juicios ordinarios de mayor cuantía, fijándose por el tribunal los puntos sobre que debe recaer, al tiempo de decretarla; y
+
 7a. Terminada la prueba, cada parte tendrá el plazo de seis días para presentar su alegato, lo que harán en el orden en que hayan comparecido al juicio.	
 
-
-**Art. 907. (1084).Todo lo dicho en este Título se aplica a las capellanías laicales a que esté afecto algún censo.
-
-
-	
+**Art. 907. (1084).** Todo lo dicho en este Título se aplica a las capellanías laicales a que esté afecto algún censo.
 
 **Art. 908. (1085).** Queda vigente el procedimiento establecido por las leyes de la materia sobre exvinculaciones.
+
 
 
 ## Título XIV. DE LAS INFORMACIONES PARA PERPETUA MEMORIA
 
 **Art. 909. (1086).** Los tribunales admitirán las informaciones de testigos que ante ellos se promuevan, con tal que no se refieran a hechos de que pueda resultar perjuicio a persona conocida y determinada.
 
-	
-
 **Art. 910. (1087).** En el mismo escrito en que se pida que se admita la información, se articularán los hechos sobre los cuales hayan de declarar los testigos.
 
-	
-
 **Art. 911. (1088).** Derogado.
-
-
 
 **Art. 912. (1089).** Admitida la información, serán examinados los testigos que el interesado presente.
 
@@ -4155,80 +4107,52 @@ Si los testigos son conocidos del juez o del ministro de fe que autoriza la dili
 
 Si no lo son, se les exigirá que comprueben su identidad con dos testigos conocidos.
 
-
-
 **Art. 913. (1090).** Concluida la información, se pasará al defensor público para que examine las cualidades de los testigos y si se ha acreditado su identidad por alguno de los medios expresados.
 
 **Art. 914. (1091).** Los tribunales aprobarán las informaciones rendidas con arreglo a lo dispuesto en este Título, siempre que los hechos aparezcan justificados con la prueba que expresa el número 2° del artículo 384, y mandarán archivar los antecedentes, dándose copia a los interesados.
 
-
 Estas informaciones tendrán el valor de una presunción legal.
 
 
-	
-## Título XV. DE LA EXPROPIACIÓN POR CAUSA DE UTILIDAD PUBLICA
 
+## Título XV. DE LA EXPROPIACIÓN POR CAUSA DE UTILIDAD PUBLICA
 
 **Art. 915. (1092).** Autorizada la expropiación en la forma que dispone el número 10 del artículo 10 de la Constitución, el juez letrado dentro de cuya jurisdicción se encontraren los bienes que han de expropiarse, a solicitud escrita del que pida la expropiación, citará a éste y al propietario de los bienes a un comparendo, con el fin de nombrar peritos que hagan el justiprecio ordenado por dicho artículo.
 
-
-
 **Art. 916. (1093).** El comparendo tendrá lugar aun cuando sólo concurra el que pide la expropiación. Cada parte nombrará un perito, y de común acuerdo al que deba hacer las veces de tercero en discordia. No habiendo acuerdo para este nombramiento, lo hará el juez, al cual corresponderá también designar perito a nombre del propietario de los bienes, si éste no concurre al comparendo.
 
-	
-
 **Art. 917. (1094).** Reunidos los peritos y el tercero en el día y hora que designe el tribunal, bajo una multa de un sueldo vital en caso de inasistencia, harán un avalúo circunstanciado de los bienes que se trata de expropiar y de los daños y perjuicios que con la expropiación se causen al propietario. No se tomará en cuenta para este avalúo el mayor valor que puedan obtener los bienes expropiados a consecuencia de las obras a que esté destinada la expropiación.
-
-
 
 **Art. 918. (1095).** Si la estimación de los dos peritos es idéntica, o si lo es la de uno de los peritos y la del tercero, se aceptará como valor de los bienes el que establezcan las dos avaluaciones conformes.
 
 No existiendo esta conformidad, se tendrá como valor de los bienes el tercio de la suma de las tres operaciones; pero si entre ellas hay notable diferencia, podrá el tribunal modificar prudencialmente ese valor.	
 
-
 **Art. 919. (1096).** Declarado por el tribunal el valor de los bienes y perjuicios con arreglo al artículo anterior, se mandará publicar esta declaración por medio de cinco avisos que se insertarán de tres en tres días, a lo menos, en un periódico del departamento, si lo hay, o de la cabecera de la provincia, en caso contrario, a fin de que los terceros a que se refieren los artículos 923 y 924 puedan solicitar las medidas precautorias que en dichos artículos se mencionan. Transcurridos tres días después del último aviso y no habiendo oposición de terceros, el tribunal ordenará que el precio de la expropiación se entregue al propietario, o si está él ausente del departamento o se niega a recibir que se consigne dicho valor en un establecimiento de crédito.
-
 
 Verificado el pago o la consignación, se mandará poner inmediatamente al interesado en posesión de los bienes expropiados, si son muebles, y si son raíces, se ordenará el otorgamiento dentro del segundo día de la respectiva escritura, la cual será firmada por el juez a nombre del vendedor, si éste se niega a hacerlo o está ausente del departamento.
 
-	
-
 **Art. 920. (1097).** Las notificaciones en esta gestión se harán en la forma que establece el artículo 48.
-
-
-	
 
 **Art. 921. (1098).** Las apelaciones que se interpongan se concederán sólo en el efecto devolutivo.
 
-	
-
 **Art. 922. (1099).** En segunda instancia podrá hacerse nueva estimación pericial en la forma dispuesta por los artículos 915 a 918 inclusive, si el tribunal lo juzga necesario.
-
-	
 
 **Art. 923. (1100).** Los juicios pendientes sobre la cosa expropiada no impedirán el procedimiento que este Título establece.
 
-
 En este caso, el valor de la expropiación se consignará a la orden del tribunal, para que sobre él se hagan valer los derechos de los litigantes.
-
 
 Aun cuando el actual poseedor de los bienes expropiados resulte vencido en el juicio de propiedad, se considerará firme la enajenación a favor del expropiante, pudiendo el que sea declarado dueño ejercer los derechos a que se refiere el inciso anterior y las demás acciones que le correspondan.
 
-
-	
-
 **Art. 924. (1101).** Tampoco será obstáculo para la expropiación la existencia de hipoteca u otros gravámenes que afecten a la cosa expropiada; sin perjuicio de los derechos que sobre el precio puedan hacer valer los interesados. Las gestiones a que dé lugar el ejercicio de estos derechos se tramitarán como incidentes en ramo separado y no entorpecerán el cumplimiento de la expropiación.
-
-
-	
 
 **Art. 925. (1102).** Las gestiones para reclamar la expropiación deberán iniciarse dentro de los seis meses subsiguientes a la ley que la autorice, salvo que la misma ley fije un plazo diverso.
 
 
-	
+
 ## Título Final. DE LA DEROGACIÓN DE LAS LEYES DE PROCEDIMIENTO
 
 **Artículo final.**
+
 La derogación de las leyes preexistentes al 1° de Marzo de 1903, sobre las materias de que trata el presente Código, se rige por el siguiente artículo final del Código de Procedimiento Civil aprobado por la Ley N° 1.552, de 28 de Agosto de 1902:
 "Desde la vigencia de este Código quedarán derogadas todas las leyes preexistentes sobre las materias que en él se tratan, aun en la parte que no le sean contrarias, salvo que ellas se refieran a los tribunales especiales no regidos por la Ley de 15 de Octubre de 1875.
 
@@ -4236,4 +4160,3 @@ Sin embargo, los Códigos Civil, de Comercio y de Minería, la Ley de Organizaci
 
 *Santiago, veintiuno de Marzo de 1944.- J. A. Ríos M.- Oscar Gajardo V.*
 
-![image](https://user-images.githubusercontent.com/22777098/126417568-be9c7454-4bba-47c1-9001-07b3acd7ac5a.png)

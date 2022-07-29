@@ -1,0 +1,37 @@
+project:
+  type: book
+
+book:
+  title: "DerechoProcesal"
+  author: "Luis Aguilera Arteaga"
+  date: "7/29/2022"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: codigo_procedimiento_civil.qmd
+      chapters: 
+        - codigo_procedimiento_civil_libro1.qmd
+        - codigo_procedimiento_civil_libro2.qmd
+        - codigo_procedimiento_civil_libro3.qmd
+        - codigo_procedimiento_civil_libro4.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+
+editor: visual
+
+page-navigation: true

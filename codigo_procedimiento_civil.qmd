@@ -1,0 +1,23 @@
+# Código de Procedimiento Civil {.unnumbered}
+
+| Título | CODIGO DE PROCEDIMIENTO CIVIL|
+| :------------- | :------------- |
+| Tipo Norma   | Ley 1552 |
+| Fecha Publicación | 30-08-1902|
+| Fecha Promulgación    | 28-08-1902|
+| Organismo | MINISTERIO DE JUSTICIA|
+| Última Versión De  | 14-MAY-2019|
+| Inicio Vigencia  | 14-05-2019|
+| Id Norma | 22740|
+| Ultima Modificación | 14-MAY-2019 Ley 21159|
+| URL | [https://www.leychile.cl/N?i=22740&f=2019-05-14](https://www.leychile.cl/N?i=22740&f=2019-05-14) |
+
+
+# Contenido del Código
+
+- [Libro Primero. DISPOSICIONES COMUNES A TODO PROCEDIMIENTO.](codigo_procedimiento_civil_libro1.qmd)
+- [Libro Segundo. DEL JUICIO ORDINARIO](codigo_procedimiento_civil_libro2.qmd)
+- [Libro Tercero. DE LOS JUICIOS ESPECIALES.](codigo_procedimiento_civil_libro3.qmd)
+- [Libro Cuarto. DE LOS ACTOS JUDICIALES NO CONTENCIOSOS](codigo_procedimiento_civil_libro4.qmd)
+
+
